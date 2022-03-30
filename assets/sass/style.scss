@@ -426,6 +426,8 @@ background-size: cover;
     flex-direction: row;
     cursor: pointer;
     img{
+      width: 30%;
+      height: 90%;
     opacity: .4;
     transition: all .4s;
     &:hover{

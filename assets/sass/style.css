@@ -711,6 +711,8 @@ a {
 }
 
 .partners .partner-items img {
+  width: 30%;
+  height: 90%;
   opacity: .4;
   -webkit-transition: all .4s;
   transition: all .4s;
